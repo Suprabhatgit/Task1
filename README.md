@@ -230,6 +230,8 @@ If I want to obtain the last modified time of the specified file only, I should 
 following command:
 xenonstack@xsd-034:~$ internsctl file getinfo --last-modified hello.txt
 2024-10-07 14:34:44.616123431 +0530
+![Screenshot (42)](https://github.com/Suprabhatgit/Task1/assets/141928640/9ba41294-f9d2-4702-932f-40719e6787e6)
+
 ![Screenshot (34)](https://github.com/Suprabhatgit/Task1/assets/141928640/01d36067-f142-4d2f-b34d-dfcad9bbbed7)
 
 ![Screenshot (35)](https://github.com/Suprabhatgit/Task1/assets/141928640/2db74ddc-50d9-4c46-ac8e-4dd8ca76c9d8)
